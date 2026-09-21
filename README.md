@@ -55,9 +55,9 @@ npm run dev
 Open the URL printed by Vite (normally http://localhost:5173).
 
 ### Demo accounts after seeding
-- Admin: admin@reuseconnect.local / Admin@123
-- NGO: ngo@reuseconnect.local / Ngo@123
-- Donor: donor@reuseconnect.local / Donor@123
+- Admin: tatavista9182@gmail.com / baraut@123
+- NGO: pkkumari7310@gmail.com / kumari@123
+- Donor: a45025905@gmail.com / Donor@123
 
 ## MongoDB
 The default backend connection is:
